@@ -62,7 +62,7 @@ In addition, you can find the [The Alan Turing Institute BridgeAI website](https
  - Shane Conneely, Partnership Development Lead
  - Florian Ostmann, Head AI Governance and Regulatory Innovation, AI Governance team lead
  - Shakir Laher, Research Application Manager, Public Policy Programme
- - Arcangelo Leone, Research Assistant, Public Policy Programme
+ - Arcangelo Leone de Castris, Research Associate, Public Policy Programme
 
 **Independent Scientific Advisors**
 
